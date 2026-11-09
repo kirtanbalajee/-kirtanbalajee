@@ -15,8 +15,6 @@ I'm currently building my practical networking skills through hands-on projects 
 - **Tools:** Cisco Packet Tracer
 - **Other:** Basic Network Troubleshooting
 
-🔗 [View Project Repository](https://github.com/kirtanbalajee/-networking-projects)
-
 ## 📚 Currently Learning
 
 - Advanced Networking Fundamentals
