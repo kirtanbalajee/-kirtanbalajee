@@ -42,6 +42,19 @@ Designed and configured an enterprise network connecting multiple departments th
 - Network Monitoring and Troubleshooting
 - CCNA (200-301) Preparation
 
+  ## 🚀 Projects
+
+### Enterprise Network Infrastructure | Cisco Packet Tracer
+
+- Designed an enterprise network connecting HR, Finance, and IT departments.
+- Configured static IP addressing, DHCP, and DNS.
+- Implemented centralized server connectivity.
+- Tested interdepartmental network communication.
+
+**Tools:** Cisco Packet Tracer
+
+**Project:** [View Project Repository](https://github.com/kirtanbalajee/-networking-projects)
+
 ## 🎯 Career Interests
 
 - Network Operations Center (NOC) Engineer
