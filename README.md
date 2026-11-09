@@ -2,43 +2,41 @@
 
 ### Electronics & Communication Engineering Graduate | Aspiring Network Engineer
 
-I'm an ECE graduate interested in Computer Networking, Network Infrastructure, and Network Operations (NOC).
+I'm an Electronics and Communication Engineering graduate interested in Computer Networking, Network Infrastructure, and Network Operations Center (NOC).
 
-I'm currently building my practical networking skills through hands-on projects using Cisco Packet Tracer and learning industry-relevant networking concepts.
+I'm currently developing my networking skills through hands-on projects using Cisco Packet Tracer and learning industry-relevant networking concepts.
 
 ## 🛠️ Technical Skills
 
-- **Networking:** Networking Fundamentals, OSI Model, TCP/IP
+- **Networking Fundamentals:** OSI Model, TCP/IP
 - **IP Networking:** IPv4 Addressing, Subnetting
 - **Network Services:** DHCP, DNS
 - **Network Devices:** Routers and Switches
 - **Tools:** Cisco Packet Tracer
-- **Other:** Basic Network Troubleshooting
+- **Troubleshooting:** Basic Network Troubleshooting
+- **Certification Preparation:** CCNA (200-301)
 
-## 📚 Currently Learning
-
-- Advanced Networking Fundamentals
-- Routing and Switching
-- VLANs and Inter-VLAN Routing
-- Network Monitoring and Troubleshooting
-- CCNA (200-301) Preparation
-
-  ## 🚀 Projects
+## 🚀 Projects
 
 ### Enterprise Network Infrastructure | Cisco Packet Tracer
 
-- Designed an enterprise network connecting HR, Finance, and IT departments.
-- Configured static IP addressing, DHCP, and DNS.
-- Implemented centralized server connectivity.
+Designed and configured an enterprise network connecting multiple departments through routers and switches.
+
+**Key Implementations:**
+- Designed a network topology for HR, Finance, and IT departments.
+- Configured static IP addressing.
+- Implemented DHCP for automatic IP assignment.
+- Configured DNS for domain name resolution.
+- Established centralized server connectivity.
 - Tested interdepartmental network communication.
 
 **Tools:** Cisco Packet Tracer
 
-**Project:** [View Project Repository](https://github.com/kirtanbalajee/-networking-projects)
+**Project Repository:** [View Enterprise Network Project](https://github.com/kirtanbalajee/-networking-projects)
 
 ## 🎯 Career Interests
 
-- Network Operations Center (NOC) Engineer
+- Network Operations Center (NOC) Engineer L1
 - Network Support Engineer
 - Junior Network Engineer
 - Network Operations Analyst
