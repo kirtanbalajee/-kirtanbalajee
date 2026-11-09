@@ -15,23 +15,6 @@ I'm currently building my practical networking skills through hands-on projects 
 - **Tools:** Cisco Packet Tracer
 - **Other:** Basic Network Troubleshooting
 
-## 🚀 Projects
-
-### 1. Enterprise Network Infrastructure Using Cisco Packet Tracer
-
-Designed and configured an enterprise network connecting multiple departments through a centralized switch and router.
-
-**Key Implementations:**
-- Enterprise network topology design
-- Static IP addressing
-- DHCP configuration
-- DNS configuration
-- Interdepartmental communication
-- Centralized server connectivity
-- Network connectivity testing
-
-**Tools:** Cisco Packet Tracer
-
 🔗 [View Project Repository](https://github.com/kirtanbalajee/-networking-projects)
 
 ## 📚 Currently Learning
